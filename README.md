@@ -10,13 +10,13 @@ Fun Bus wants you to make their site more interactive. They are relying on you t
 * [X] Add your project manager as collaborator on Github.
 * [X] Clone your OWN version of the repository (Not Lambda's by mistake!).
 * [X] Create a new branch: git checkout -b `<firstName-lastName>`.
-* [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-* [ ] Push commits: git push origin `<firstName-lastName>`.
+* [X] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+* [X] Push commits: git push origin `<firstName-lastName>`.
 
 **Follow these steps for completing your project.**
 
-* [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
-* [ ] Add your project manager as a reviewer on the pull-request
+* [X] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
+* [X] Add your project manager as a reviewer on the pull-request
 * [ ] Your project manager will count the project as complete by merging the branch back into master.
 
 ## Task 1: Set Up LESS Preprocessor
@@ -34,16 +34,16 @@ Fun Bus wants you to make their site more interactive. They are relying on you t
 ## Task 2: Create Unique Event Listeners
 
 * [ ] Using your [index.js file](js/index.js), create 10 [unique event listeners](https://developer.mozilla.org/en-US/docs/Web/Events). using your creativity to make the Fun Bus site more interactive.  Here are some unique events you could try to use: 
-	* [ ] `mouseover`
-	* [ ] `keydown`
-	* [ ] `wheel`
-	* [ ] `drag / drop`
+	* [X] `mouseover`
+	* [X] `keydown`
+	* [X] `wheel`
+	* [X] `drag / drop`
 	* [ ] `load`
-	* [ ] `focus`
+	* [X] `focus`
 	* [ ] `resize`
 	* [ ] `scroll`
-	* [ ] `select`
-	* [ ] `dblclick`
+	* [X] `select`
+	* [X] `dblclick`
 
 Using the 10 unique events, find ways to update the DOM in creative ways. For example you could change colors, animate objects, remove objects, etc.
 
