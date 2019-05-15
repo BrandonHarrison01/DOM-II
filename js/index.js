@@ -6,6 +6,7 @@ let headings = document.querySelectorAll('h2');
 let button = document.querySelector('.btn')
 let textSelect = document.querySelector('textarea')
 let allImg = document.querySelectorAll('img');
+let navi = document.querySelector('nav')
 
 textSelect.style.width = '100%'
 
@@ -56,3 +57,13 @@ busImg.addEventListener('mouseleave', function() {
     currentValue.style.border = 'none';
     })
 })
+
+navi.addEventListener('click', function(event) {
+    event.stopPropagation();
+    event.preventDefault();
+})
+
+body.addEventListener('click', function() {
+    body.style.backgroundColor = 'pink'
+})
+
